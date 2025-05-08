@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'Hello, BAHO TAE ANG NAKA BASA ANEH!'
+    return 'KEMUEL ROLLIN ARCAYENA BSIT-III SYSTEM INTEGRATION SEMI FINAL EXAM'
 
 if __name__ == '__main__':
     # Get the port dynamically from the environment variable (Railway does this automatically)
